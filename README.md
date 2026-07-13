@@ -6,10 +6,9 @@ Conjunto de aplicaciones desarrolladas en Processing, para compartir dibujos sim
 
 ------
 
-# TrazoVJ 1.1
+# TrazOSC
 Aplicación desarrollada en Processing que utiliza las librerías de Syphon/Spout para enviar dibujos a cualquier software que reciba este canal.
 
-> [TrazoVJ 1.1](https://vimeo.com/134422886)
 
 ### Pasos
 1. Abrir la aplicación TrazoSypon en el computador.
@@ -19,10 +18,8 @@ Aplicación desarrollada en Processing que utiliza las librerías de Syphon/Spou
 
 ------
 
-# TrazoOSC_Server-Client 1.1
+# TrazoOSC_Server-Client
 Un emisor OSC y un receptor que a la vez envía por Syphon / Spout la imagen recibida a cualquier software que reciba estos canales.
-
-> [TrazoOSC 1.1](https://vimeo.com/134422887)
 
 <li>Computador A : TrazOSC_Server_8000 - Envio OSC </li>
 <li>Computador B : TrazOSC_Client_8000 - Recepcion OSC > Envio Spout/Syphon</li>
