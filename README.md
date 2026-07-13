@@ -1,4 +1,4 @@
-# TrazoVJ 1.1  /  TrazoOSC 1.1
+# TrazoOSC
 
 ![portadaTumblr](https://user-images.githubusercontent.com/23372422/190699468-bae2ff6a-da89-4e3d-b592-cf446dd05e01.jpg)
 
